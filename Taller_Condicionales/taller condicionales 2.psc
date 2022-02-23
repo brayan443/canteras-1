@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	
+	escribir "escribe tu edad"
+	leer edad
+	si edad<18 Entonces
+		escribir" usted aún es un niño"
+	FinSi
+	FinAlgoritmo
